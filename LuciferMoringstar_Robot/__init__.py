@@ -30,8 +30,8 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Click Me](
-https://t.me/joinchat/9A_k-fV_qDdlN2Vl)
+➥ Creator : [Developer](https://t.me/joinchat/9A_k-fV_qDdlN2Vl) 
+
 
 ➥ Language : Python3
 
