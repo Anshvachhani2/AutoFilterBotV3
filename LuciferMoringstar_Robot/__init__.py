@@ -28,7 +28,8 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Akansha Bot
+
     
 ➥ Creator : [Developer](https://t.me/joinchat/9A_k-fV_qDdlN2Vl) 
 
